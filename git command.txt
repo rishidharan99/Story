@@ -1,0 +1,6 @@
+git init = to  initialse the git 
+git status = check for staging file or tracking file 
+git add / git . (add all) = add the file into staging and start tracking file 
+git commit -m "message" = save the file to respository 
+git log = check the logs and respository 
+git restore = to go back to previous version 
